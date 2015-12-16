@@ -1,0 +1,5 @@
+baseurl = "http://blog.mne.li:2015/"
+languageCode = "ru-ru"
+title = "Маленький личный бложик"
+
+theme = "hyde-x"
