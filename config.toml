@@ -3,3 +3,6 @@ languageCode = "ru-ru"
 title = "Маленький личный бложик"
 
 theme = "hyde-x"
+
+[params]
+  gravatarHash = "25d40048190087abb5647ca70f9d5540"
