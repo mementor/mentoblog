@@ -1,8 +1,12 @@
 baseurl = "http://blog.mne.li/"
 languageCode = "ru-ru"
-title = "Маленький личный бложик"
-
+title = "Погружение в былое"
 theme = "hyde-x"
 
+[author]
+  name = "mentor"
+
+
 [params]
-  gravatarHash = "84af29196320d5f4cf36d479b7d79eb9"
+  # gravatarHash = "84af29196320d5f4cf36d479b7d79eb9"
+  github = "https://github.com/mementor"
